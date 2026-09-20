@@ -78,3 +78,7 @@ CodeKavach is developed at the Thapar Institute of Engineering and Technology as
 ## Licence
 
 [MIT](LICENSE)
+
+## Security
+
+If you find a vulnerability, please [report it privately](../../security/advisories/new) rather than opening a public issue. See [SECURITY.md](SECURITY.md) for details on our security policy, supported versions, and what's in scope.
