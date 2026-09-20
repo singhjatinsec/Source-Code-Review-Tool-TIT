@@ -1,0 +1,380 @@
+{
+ "owner": "singhjatinsec",
+ "repository": "Source-Code-Review-Tool-TIT",
+ "project": {
+  "id": "PVT_kwHOE8UxH84BkHne",
+  "number": 1,
+  "url": "https://github.com/users/singhjatinsec/projects/1"
+ },
+ "fields": {
+  "Title": {
+   "id": "PVTF_lAHOE8UxH84BkHnezhi5W7U",
+   "name": "Title"
+  },
+  "Assignees": {
+   "id": "PVTF_lAHOE8UxH84BkHnezhi5W7Y",
+   "name": "Assignees"
+  },
+  "Status": {
+   "id": "PVTSSF_lAHOE8UxH84BkHnezhi5W7c",
+   "name": "Status",
+   "options": [
+    {
+     "id": "d96625f7",
+     "name": "Backlog"
+    },
+    {
+     "id": "2aa1615c",
+     "name": "Ready"
+    },
+    {
+     "id": "3b51b863",
+     "name": "In progress"
+    },
+    {
+     "id": "bc4fea99",
+     "name": "In review"
+    },
+    {
+     "id": "6c0a9bac",
+     "name": "Done"
+    }
+   ]
+  },
+  "Labels": {
+   "id": "PVTF_lAHOE8UxH84BkHnezhi5W7g",
+   "name": "Labels"
+  },
+  "Linked pull requests": {
+   "id": "PVTF_lAHOE8UxH84BkHnezhi5W7k",
+   "name": "Linked pull requests"
+  },
+  "Milestone": {
+   "id": "PVTF_lAHOE8UxH84BkHnezhi5W7o",
+   "name": "Milestone"
+  },
+  "Repository": {
+   "id": "PVTF_lAHOE8UxH84BkHnezhi5W7s",
+   "name": "Repository"
+  },
+  "Reviewers": {
+   "id": "PVTF_lAHOE8UxH84BkHnezhi5W70",
+   "name": "Reviewers"
+  },
+  "Parent issue": {
+   "id": "PVTF_lAHOE8UxH84BkHnezhi5W74",
+   "name": "Parent issue"
+  },
+  "Sub-issues progress": {
+   "id": "PVTF_lAHOE8UxH84BkHnezhi5W78",
+   "name": "Sub-issues progress"
+  },
+  "Created": {
+   "id": "PVTF_lAHOE8UxH84BkHnezhi5W8A",
+   "name": "Created"
+  },
+  "Updated": {
+   "id": "PVTF_lAHOE8UxH84BkHnezhi5W8E",
+   "name": "Updated"
+  },
+  "Closed": {
+   "id": "PVTF_lAHOE8UxH84BkHnezhi5W8I",
+   "name": "Closed"
+  },
+  "Priority": {
+   "id": "PVTSSF_lAHOE8UxH84BkHnezhi5W-U",
+   "name": "Priority",
+   "options": [
+    {
+     "id": "75a940c5",
+     "name": "P0-critical"
+    },
+    {
+     "id": "0d773d06",
+     "name": "P1-high"
+    },
+    {
+     "id": "4bfcb669",
+     "name": "P2-medium"
+    },
+    {
+     "id": "b38e66ee",
+     "name": "P3-low"
+    }
+   ]
+  },
+  "Size": {
+   "id": "PVTSSF_lAHOE8UxH84BkHnezhi5W_Q",
+   "name": "Size",
+   "options": [
+    {
+     "id": "f027268f",
+     "name": "XS"
+    },
+    {
+     "id": "e571cb76",
+     "name": "S"
+    },
+    {
+     "id": "8072533a",
+     "name": "M"
+    },
+    {
+     "id": "d6d9f22b",
+     "name": "L"
+    },
+    {
+     "id": "d53dfbfa",
+     "name": "XL"
+    }
+   ]
+  },
+  "Epic": {
+   "id": "PVTSSF_lAHOE8UxH84BkHnezhi5XBE",
+   "name": "Epic",
+   "options": [
+    {
+     "id": "754d5f18",
+     "name": "E01 Scaffolding and DX"
+    },
+    {
+     "id": "e41ec6de",
+     "name": "E02 Core domain model"
+    },
+    {
+     "id": "ee9d2a62",
+     "name": "E03 Configuration"
+    },
+    {
+     "id": "6e665423",
+     "name": "E04 Plugins and pipeline"
+    },
+    {
+     "id": "fd50516b",
+     "name": "E05 CLI"
+    },
+    {
+     "id": "4c8e0e01",
+     "name": "E06 Ingestion"
+    },
+    {
+     "id": "82197043",
+     "name": "E07 Parsing and code intelligence"
+    },
+    {
+     "id": "fb31404e",
+     "name": "E08 Secret, PII, domain-term detection"
+    },
+    {
+     "id": "5f698aea",
+     "name": "E09 Pseudonymisation"
+    },
+    {
+     "id": "e2227a0f",
+     "name": "E10 Vault and restore"
+    },
+    {
+     "id": "3badaa63",
+     "name": "E11 Slice extraction"
+    },
+    {
+     "id": "2fc7f242",
+     "name": "E12 Egress guard and ledger"
+    },
+    {
+     "id": "628937e0",
+     "name": "E13 Demo 1 end-to-end"
+    },
+    {
+     "id": "1681e9d9",
+     "name": "E14 Engine adapter framework"
+    },
+    {
+     "id": "17d05a68",
+     "name": "E15 Engine adapters"
+    },
+    {
+     "id": "479d1c7c",
+     "name": "E16 Native rules"
+    },
+    {
+     "id": "b10d12ea",
+     "name": "E17 Taint analysis"
+    },
+    {
+     "id": "e8a1e3c7",
+     "name": "E18 Secret findings"
+    },
+    {
+     "id": "9f44ab5f",
+     "name": "E19 SCA and SBOM"
+    },
+    {
+     "id": "42f75bf5",
+     "name": "E20 IaC and pipeline config"
+    },
+    {
+     "id": "606f0ef4",
+     "name": "E21 Aggregation and baselines"
+    },
+    {
+     "id": "78570a09",
+     "name": "E22 LLM providers"
+    },
+    {
+     "id": "0311eb6a",
+     "name": "E23 Prompts and review tasks"
+    },
+    {
+     "id": "154c2909",
+     "name": "E24 LLM hardening"
+    },
+    {
+     "id": "820ea727",
+     "name": "E25 Privacy policy engine"
+    },
+    {
+     "id": "57702232",
+     "name": "E26 Advanced pseudonymisation"
+    },
+    {
+     "id": "efa55faf",
+     "name": "E27 Abstract-IR mode L4"
+    },
+    {
+     "id": "1be49b7a",
+     "name": "E28 Leakage regression testing"
+    },
+    {
+     "id": "fe9b222c",
+     "name": "E29 Risk rating and mapping"
+    },
+    {
+     "id": "677df51b",
+     "name": "E30 Report model and narrative"
+    },
+    {
+     "id": "90ea2144",
+     "name": "E31 Report renderers"
+    },
+    {
+     "id": "ab2be627",
+     "name": "E32 Server and REST API"
+    },
+    {
+     "id": "b5bef71d",
+     "name": "E33 Web dashboard"
+    },
+    {
+     "id": "aa161a6a",
+     "name": "E34 GitHub integration"
+    },
+    {
+     "id": "2f1c5a92",
+     "name": "E35 VS Code, pre-commit, MCP"
+    },
+    {
+     "id": "1371e92c",
+     "name": "E36 Eval: detection"
+    },
+    {
+     "id": "de555292",
+     "name": "E37 Eval: leakage"
+    },
+    {
+     "id": "33455464",
+     "name": "E38 Paper and academic deliverables"
+    },
+    {
+     "id": "216c9419",
+     "name": "E39 Packaging and deployment"
+    },
+    {
+     "id": "e610c5fb",
+     "name": "E40 Security of the tool"
+    },
+    {
+     "id": "8c5f982a",
+     "name": "E41 Documentation"
+    },
+    {
+     "id": "3a915c92",
+     "name": "E42 Project management"
+    }
+   ]
+  },
+  "Sprint": {
+   "id": "PVTIF_lAHOE8UxH84BkHnezhi5XBQ",
+   "name": "Sprint",
+   "configuration": {
+    "iterations": [
+     {
+      "id": "17b80009",
+      "title": "Sprint 1",
+      "startDate": "2026-09-21"
+     },
+     {
+      "id": "17b8b248",
+      "title": "Sprint 2",
+      "startDate": "2026-09-28"
+     },
+     {
+      "id": "ae091a05",
+      "title": "Sprint 3",
+      "startDate": "2026-10-05"
+     },
+     {
+      "id": "8079e320",
+      "title": "Sprint 4",
+      "startDate": "2026-10-12"
+     },
+     {
+      "id": "77090e7f",
+      "title": "Sprint 5",
+      "startDate": "2026-10-19"
+     },
+     {
+      "id": "ec082f42",
+      "title": "Sprint 6",
+      "startDate": "2026-10-26"
+     },
+     {
+      "id": "a0f2c491",
+      "title": "Sprint 7",
+      "startDate": "2026-11-02"
+     },
+     {
+      "id": "99df1f57",
+      "title": "Sprint 8",
+      "startDate": "2026-11-09"
+     },
+     {
+      "id": "3b44adfa",
+      "title": "Sprint 9",
+      "startDate": "2026-11-16"
+     },
+     {
+      "id": "27d3b3bf",
+      "title": "Sprint 10",
+      "startDate": "2026-11-23"
+     },
+     {
+      "id": "a05d125e",
+      "title": "Sprint 11",
+      "startDate": "2026-11-30"
+     },
+     {
+      "id": "3f6a10ee",
+      "title": "Sprint 12",
+      "startDate": "2026-12-07"
+     },
+     {
+      "id": "4623c76c",
+      "title": "Sprint 13",
+      "startDate": "2026-12-14"
+     }
+    ]
+   }
+  }
+ }
+}
