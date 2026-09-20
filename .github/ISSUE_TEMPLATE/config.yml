@@ -6,3 +6,6 @@ contact_links:
   - name: Progress board
     url: https://github.com/users/singhjatinsec/projects/1
     about: Kanban board with sprints, epics and the roadmap
+  - name: Report a security vulnerability
+    url: https://github.com/singhjatinsec/Source-Code-Review-Tool-TIT/security/advisories/new
+    about: Report a security vulnerability privately (see SECURITY.md for scope)
